@@ -45,4 +45,43 @@ Tengo gran capacidad de trabajo en equipo, me adapto rápido a nuevos entornos t
 - Desarrollo de servicios RESTful
 - Generación de informes con **JasperReports**
 - Buenas prácticas: **Clean Code**, principios **SOLID**
-- Frontend
+- Frontend moderno con **Angular + TypeScript**
+- Despliegue en **Tomcat, WildFly**, y conocimientos de **CI/CD**
+
+---
+
+### 🧩 Experiencia profesional
+
+#### 💼 **Inetum Alicante** · *Desarrollador (Marzo 2023 - Actualidad)*
+
+- 🛠️ Desarrollo de aplicaciones empresariales Java con Spring Boot, Hibernate y JPA  
+- 🖥️ Creación de interfaces web sobre PrimeFaces y JSF  
+- 💾 Procedimientos PL/SQL avanzados en Oracle  
+- 🌐 Desarrollo de APIs REST  
+- 🔧 Administración de servidores Tomcat y WildFly  
+- 📊 Generación de informes personalizados en JasperReports  
+- 🧼 Aplicación de metodologías Clean Code, integración de Angular + TypeScript  
+
+---
+
+### 🌍 Idiomas
+
+- 🇪🇸 Castellano / Valenciano: Nativo  
+- 🇬🇧 Inglés: Nivel intermedio (Título Bachiller)
+
+---
+
+### 📫 Contacto
+
+- 📞 **Teléfono:** 640 55 44 66  
+- ✉️ **Email:** lsuares.abarca.dev@gmail.com  
+- 📍 **Ubicación:** Alicante, España  
+- 🌐 **Web personal:** [luissuarez.github.io](https://luissuarez.github.io)
+
+---
+
+### ⚡ Extra
+
+- 🚗 Carnet de conducir
+
+---
