@@ -74,9 +74,9 @@ Tengo gran capacidad de trabajo en equipo, me adapto rápido a nuevos entornos t
 ### 📫 Contacto
 
 - 📞 **Teléfono:** 640 55 44 66  
-- ✉️ **Email:** lsuares.abarca.dev@gmail.com  
+- ✉️ **Email:** lsuarez.abarca.dev@gmail.com  
 - 📍 **Ubicación:** Alicante, España  
-- 🌐 **Web personal:** [luissuarez.github.io](https://luissuarez.github.io)
+- 🌐 **Web personal:** [lsuarezDev.github.io](https://lsuarezDev.github.io)
 
 ---
 
